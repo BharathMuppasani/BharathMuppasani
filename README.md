@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi! 🤖
 
 I'm a **Computer Science PhD student** focused on intelligent systems and dynamic environments. I'm currently exploring how dynamic planning can be applied to decision-making in multi-agent robotic systems.
 

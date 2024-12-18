@@ -21,4 +21,5 @@ Find my research on [Google Scholar](https://scholar.google.com/citations?user=4
 ## 📫 Get in Touch
 
 - **Email:** [Mail ID](mailto:muppasanibharath.18@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/bharath-9798/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bharath-9798/)
+- **Portfolio** [Bharath Muppasani](https://bharathmuppasani.github.io/)
